@@ -16,9 +16,14 @@ Easy to use and beginner-friendly interface
 Tech Stack
 
 Frontend: HTML, CSS, JavaScript
+
 Backend/Logic: Python, Pandas
+
 Data Storage: CSV files
+
 Tools: VS Code, Live Server
+
+
 Datasets Used
 
 job_role_skills.csv
