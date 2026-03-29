@@ -1,0 +1,151 @@
+job_role,skill,importance
+data scientist,java,low
+data scientist,statistics,low
+data scientist,nlp,medium
+data scientist,system design,low
+data scientist,javascript,high
+data scientist,tensorflow,high
+data scientist,azure,medium
+data scientist,git,high
+data scientist,css,medium
+data scientist,computer vision,low
+data scientist,html,low
+data scientist,apis,medium
+data scientist,cloud basics,medium
+data scientist,machine learning,medium
+data scientist,aws,medium
+machine learning engineer,dsa,low
+machine learning engineer,javascript,high
+machine learning engineer,cloud basics,low
+machine learning engineer,tensorflow,low
+machine learning engineer,python,high
+machine learning engineer,scikit-learn,high
+machine learning engineer,linux,medium
+machine learning engineer,excel,high
+machine learning engineer,statistics,high
+machine learning engineer,computer vision,high
+machine learning engineer,pytorch,medium
+machine learning engineer,node.js,high
+machine learning engineer,gcp,high
+machine learning engineer,docker,high
+machine learning engineer,kubernetes,low
+data analyst,machine learning,low
+data analyst,aws,high
+data analyst,sql,medium
+data analyst,docker,high
+data analyst,excel,low
+data analyst,azure,medium
+data analyst,kubernetes,medium
+data analyst,python,medium
+data analyst,css,medium
+data analyst,apis,medium
+data analyst,computer vision,high
+data analyst,react,low
+data analyst,tensorflow,low
+data analyst,node.js,low
+data analyst,cloud basics,high
+ai engineer,data visualization,low
+ai engineer,aws,medium
+ai engineer,azure,medium
+ai engineer,git,low
+ai engineer,dsa,high
+ai engineer,css,medium
+ai engineer,computer vision,medium
+ai engineer,sql,high
+ai engineer,deep learning,medium
+ai engineer,scikit-learn,low
+ai engineer,pytorch,medium
+ai engineer,linux,high
+ai engineer,html,low
+ai engineer,mlops,high
+ai engineer,nosql,medium
+backend developer,scikit-learn,high
+backend developer,nosql,low
+backend developer,dsa,medium
+backend developer,python,high
+backend developer,computer vision,low
+backend developer,pytorch,low
+backend developer,sql,medium
+backend developer,java,medium
+backend developer,apis,medium
+backend developer,azure,low
+backend developer,git,medium
+backend developer,system design,high
+backend developer,excel,high
+backend developer,linux,medium
+backend developer,aws,low
+frontend developer,azure,medium
+frontend developer,deep learning,medium
+frontend developer,system design,high
+frontend developer,linux,medium
+frontend developer,tensorflow,low
+frontend developer,python,high
+frontend developer,javascript,high
+frontend developer,nlp,high
+frontend developer,docker,high
+frontend developer,nosql,high
+frontend developer,mlops,medium
+frontend developer,scikit-learn,low
+frontend developer,kubernetes,low
+frontend developer,git,low
+frontend developer,machine learning,medium
+full stack developer,excel,medium
+full stack developer,dsa,high
+full stack developer,azure,low
+full stack developer,docker,high
+full stack developer,aws,high
+full stack developer,git,medium
+full stack developer,mlops,medium
+full stack developer,kubernetes,medium
+full stack developer,tensorflow,high
+full stack developer,react,high
+full stack developer,computer vision,high
+full stack developer,gcp,low
+full stack developer,cloud basics,low
+full stack developer,java,medium
+full stack developer,css,medium
+cloud engineer,sql,medium
+cloud engineer,dsa,low
+cloud engineer,statistics,high
+cloud engineer,deep learning,high
+cloud engineer,react,medium
+cloud engineer,css,low
+cloud engineer,javascript,low
+cloud engineer,tensorflow,low
+cloud engineer,git,high
+cloud engineer,machine learning,high
+cloud engineer,scikit-learn,medium
+cloud engineer,cloud basics,high
+cloud engineer,java,high
+cloud engineer,nosql,low
+cloud engineer,mlops,low
+devops engineer,gcp,low
+devops engineer,linux,medium
+devops engineer,data visualization,high
+devops engineer,system design,low
+devops engineer,python,low
+devops engineer,apis,medium
+devops engineer,pytorch,low
+devops engineer,docker,high
+devops engineer,git,medium
+devops engineer,css,low
+devops engineer,excel,low
+devops engineer,azure,low
+devops engineer,tensorflow,high
+devops engineer,node.js,low
+devops engineer,aws,low
+business analyst,java,medium
+business analyst,python,high
+business analyst,css,high
+business analyst,computer vision,medium
+business analyst,aws,low
+business analyst,kubernetes,medium
+business analyst,power bi,high
+business analyst,pytorch,low
+business analyst,linux,low
+business analyst,machine learning,low
+business analyst,node.js,high
+business analyst,nlp,high
+business analyst,azure,low
+business analyst,docker,low
+business analyst,scikit-learn,medium

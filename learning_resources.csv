@@ -1,0 +1,481 @@
+skill,level,resource_name,resource_type,link
+python,beginner,python beginner course,coursera,https://example.com
+python,beginner,python beginner course,youtube,https://example.com
+python,beginner,python beginner course,udemy,https://example.com
+python,beginner,python beginner course,freecodecamp,https://example.com
+python,beginner,python beginner course,edx,https://example.com
+python,intermediate,python intermediate course,coursera,https://example.com
+python,intermediate,python intermediate course,youtube,https://example.com
+python,intermediate,python intermediate course,udemy,https://example.com
+python,intermediate,python intermediate course,freecodecamp,https://example.com
+python,intermediate,python intermediate course,edx,https://example.com
+python,advanced,python advanced course,coursera,https://example.com
+python,advanced,python advanced course,youtube,https://example.com
+python,advanced,python advanced course,udemy,https://example.com
+python,advanced,python advanced course,freecodecamp,https://example.com
+python,advanced,python advanced course,edx,https://example.com
+statistics,beginner,statistics beginner course,coursera,https://example.com
+statistics,beginner,statistics beginner course,youtube,https://example.com
+statistics,beginner,statistics beginner course,udemy,https://example.com
+statistics,beginner,statistics beginner course,freecodecamp,https://example.com
+statistics,beginner,statistics beginner course,edx,https://example.com
+statistics,intermediate,statistics intermediate course,coursera,https://example.com
+statistics,intermediate,statistics intermediate course,youtube,https://example.com
+statistics,intermediate,statistics intermediate course,udemy,https://example.com
+statistics,intermediate,statistics intermediate course,freecodecamp,https://example.com
+statistics,intermediate,statistics intermediate course,edx,https://example.com
+statistics,advanced,statistics advanced course,coursera,https://example.com
+statistics,advanced,statistics advanced course,youtube,https://example.com
+statistics,advanced,statistics advanced course,udemy,https://example.com
+statistics,advanced,statistics advanced course,freecodecamp,https://example.com
+statistics,advanced,statistics advanced course,edx,https://example.com
+machine learning,beginner,machine learning beginner course,coursera,https://example.com
+machine learning,beginner,machine learning beginner course,youtube,https://example.com
+machine learning,beginner,machine learning beginner course,udemy,https://example.com
+machine learning,beginner,machine learning beginner course,freecodecamp,https://example.com
+machine learning,beginner,machine learning beginner course,edx,https://example.com
+machine learning,intermediate,machine learning intermediate course,coursera,https://example.com
+machine learning,intermediate,machine learning intermediate course,youtube,https://example.com
+machine learning,intermediate,machine learning intermediate course,udemy,https://example.com
+machine learning,intermediate,machine learning intermediate course,freecodecamp,https://example.com
+machine learning,intermediate,machine learning intermediate course,edx,https://example.com
+machine learning,advanced,machine learning advanced course,coursera,https://example.com
+machine learning,advanced,machine learning advanced course,youtube,https://example.com
+machine learning,advanced,machine learning advanced course,udemy,https://example.com
+machine learning,advanced,machine learning advanced course,freecodecamp,https://example.com
+machine learning,advanced,machine learning advanced course,edx,https://example.com
+deep learning,beginner,deep learning beginner course,coursera,https://example.com
+deep learning,beginner,deep learning beginner course,youtube,https://example.com
+deep learning,beginner,deep learning beginner course,udemy,https://example.com
+deep learning,beginner,deep learning beginner course,freecodecamp,https://example.com
+deep learning,beginner,deep learning beginner course,edx,https://example.com
+deep learning,intermediate,deep learning intermediate course,coursera,https://example.com
+deep learning,intermediate,deep learning intermediate course,youtube,https://example.com
+deep learning,intermediate,deep learning intermediate course,udemy,https://example.com
+deep learning,intermediate,deep learning intermediate course,freecodecamp,https://example.com
+deep learning,intermediate,deep learning intermediate course,edx,https://example.com
+deep learning,advanced,deep learning advanced course,coursera,https://example.com
+deep learning,advanced,deep learning advanced course,youtube,https://example.com
+deep learning,advanced,deep learning advanced course,udemy,https://example.com
+deep learning,advanced,deep learning advanced course,freecodecamp,https://example.com
+deep learning,advanced,deep learning advanced course,edx,https://example.com
+sql,beginner,sql beginner course,coursera,https://example.com
+sql,beginner,sql beginner course,youtube,https://example.com
+sql,beginner,sql beginner course,udemy,https://example.com
+sql,beginner,sql beginner course,freecodecamp,https://example.com
+sql,beginner,sql beginner course,edx,https://example.com
+sql,intermediate,sql intermediate course,coursera,https://example.com
+sql,intermediate,sql intermediate course,youtube,https://example.com
+sql,intermediate,sql intermediate course,udemy,https://example.com
+sql,intermediate,sql intermediate course,freecodecamp,https://example.com
+sql,intermediate,sql intermediate course,edx,https://example.com
+sql,advanced,sql advanced course,coursera,https://example.com
+sql,advanced,sql advanced course,youtube,https://example.com
+sql,advanced,sql advanced course,udemy,https://example.com
+sql,advanced,sql advanced course,freecodecamp,https://example.com
+sql,advanced,sql advanced course,edx,https://example.com
+data visualization,beginner,data visualization beginner course,coursera,https://example.com
+data visualization,beginner,data visualization beginner course,youtube,https://example.com
+data visualization,beginner,data visualization beginner course,udemy,https://example.com
+data visualization,beginner,data visualization beginner course,freecodecamp,https://example.com
+data visualization,beginner,data visualization beginner course,edx,https://example.com
+data visualization,intermediate,data visualization intermediate course,coursera,https://example.com
+data visualization,intermediate,data visualization intermediate course,youtube,https://example.com
+data visualization,intermediate,data visualization intermediate course,udemy,https://example.com
+data visualization,intermediate,data visualization intermediate course,freecodecamp,https://example.com
+data visualization,intermediate,data visualization intermediate course,edx,https://example.com
+data visualization,advanced,data visualization advanced course,coursera,https://example.com
+data visualization,advanced,data visualization advanced course,youtube,https://example.com
+data visualization,advanced,data visualization advanced course,udemy,https://example.com
+data visualization,advanced,data visualization advanced course,freecodecamp,https://example.com
+data visualization,advanced,data visualization advanced course,edx,https://example.com
+mlops,beginner,mlops beginner course,coursera,https://example.com
+mlops,beginner,mlops beginner course,youtube,https://example.com
+mlops,beginner,mlops beginner course,udemy,https://example.com
+mlops,beginner,mlops beginner course,freecodecamp,https://example.com
+mlops,beginner,mlops beginner course,edx,https://example.com
+mlops,intermediate,mlops intermediate course,coursera,https://example.com
+mlops,intermediate,mlops intermediate course,youtube,https://example.com
+mlops,intermediate,mlops intermediate course,udemy,https://example.com
+mlops,intermediate,mlops intermediate course,freecodecamp,https://example.com
+mlops,intermediate,mlops intermediate course,edx,https://example.com
+mlops,advanced,mlops advanced course,coursera,https://example.com
+mlops,advanced,mlops advanced course,youtube,https://example.com
+mlops,advanced,mlops advanced course,udemy,https://example.com
+mlops,advanced,mlops advanced course,freecodecamp,https://example.com
+mlops,advanced,mlops advanced course,edx,https://example.com
+cloud basics,beginner,cloud basics beginner course,coursera,https://example.com
+cloud basics,beginner,cloud basics beginner course,youtube,https://example.com
+cloud basics,beginner,cloud basics beginner course,udemy,https://example.com
+cloud basics,beginner,cloud basics beginner course,freecodecamp,https://example.com
+cloud basics,beginner,cloud basics beginner course,edx,https://example.com
+cloud basics,intermediate,cloud basics intermediate course,coursera,https://example.com
+cloud basics,intermediate,cloud basics intermediate course,youtube,https://example.com
+cloud basics,intermediate,cloud basics intermediate course,udemy,https://example.com
+cloud basics,intermediate,cloud basics intermediate course,freecodecamp,https://example.com
+cloud basics,intermediate,cloud basics intermediate course,edx,https://example.com
+cloud basics,advanced,cloud basics advanced course,coursera,https://example.com
+cloud basics,advanced,cloud basics advanced course,youtube,https://example.com
+cloud basics,advanced,cloud basics advanced course,udemy,https://example.com
+cloud basics,advanced,cloud basics advanced course,freecodecamp,https://example.com
+cloud basics,advanced,cloud basics advanced course,edx,https://example.com
+docker,beginner,docker beginner course,coursera,https://example.com
+docker,beginner,docker beginner course,youtube,https://example.com
+docker,beginner,docker beginner course,udemy,https://example.com
+docker,beginner,docker beginner course,freecodecamp,https://example.com
+docker,beginner,docker beginner course,edx,https://example.com
+docker,intermediate,docker intermediate course,coursera,https://example.com
+docker,intermediate,docker intermediate course,youtube,https://example.com
+docker,intermediate,docker intermediate course,udemy,https://example.com
+docker,intermediate,docker intermediate course,freecodecamp,https://example.com
+docker,intermediate,docker intermediate course,edx,https://example.com
+docker,advanced,docker advanced course,coursera,https://example.com
+docker,advanced,docker advanced course,youtube,https://example.com
+docker,advanced,docker advanced course,udemy,https://example.com
+docker,advanced,docker advanced course,freecodecamp,https://example.com
+docker,advanced,docker advanced course,edx,https://example.com
+kubernetes,beginner,kubernetes beginner course,coursera,https://example.com
+kubernetes,beginner,kubernetes beginner course,youtube,https://example.com
+kubernetes,beginner,kubernetes beginner course,udemy,https://example.com
+kubernetes,beginner,kubernetes beginner course,freecodecamp,https://example.com
+kubernetes,beginner,kubernetes beginner course,edx,https://example.com
+kubernetes,intermediate,kubernetes intermediate course,coursera,https://example.com
+kubernetes,intermediate,kubernetes intermediate course,youtube,https://example.com
+kubernetes,intermediate,kubernetes intermediate course,udemy,https://example.com
+kubernetes,intermediate,kubernetes intermediate course,freecodecamp,https://example.com
+kubernetes,intermediate,kubernetes intermediate course,edx,https://example.com
+kubernetes,advanced,kubernetes advanced course,coursera,https://example.com
+kubernetes,advanced,kubernetes advanced course,youtube,https://example.com
+kubernetes,advanced,kubernetes advanced course,udemy,https://example.com
+kubernetes,advanced,kubernetes advanced course,freecodecamp,https://example.com
+kubernetes,advanced,kubernetes advanced course,edx,https://example.com
+java,beginner,java beginner course,coursera,https://example.com
+java,beginner,java beginner course,youtube,https://example.com
+java,beginner,java beginner course,udemy,https://example.com
+java,beginner,java beginner course,freecodecamp,https://example.com
+java,beginner,java beginner course,edx,https://example.com
+java,intermediate,java intermediate course,coursera,https://example.com
+java,intermediate,java intermediate course,youtube,https://example.com
+java,intermediate,java intermediate course,udemy,https://example.com
+java,intermediate,java intermediate course,freecodecamp,https://example.com
+java,intermediate,java intermediate course,edx,https://example.com
+java,advanced,java advanced course,coursera,https://example.com
+java,advanced,java advanced course,youtube,https://example.com
+java,advanced,java advanced course,udemy,https://example.com
+java,advanced,java advanced course,freecodecamp,https://example.com
+java,advanced,java advanced course,edx,https://example.com
+javascript,beginner,javascript beginner course,coursera,https://example.com
+javascript,beginner,javascript beginner course,youtube,https://example.com
+javascript,beginner,javascript beginner course,udemy,https://example.com
+javascript,beginner,javascript beginner course,freecodecamp,https://example.com
+javascript,beginner,javascript beginner course,edx,https://example.com
+javascript,intermediate,javascript intermediate course,coursera,https://example.com
+javascript,intermediate,javascript intermediate course,youtube,https://example.com
+javascript,intermediate,javascript intermediate course,udemy,https://example.com
+javascript,intermediate,javascript intermediate course,freecodecamp,https://example.com
+javascript,intermediate,javascript intermediate course,edx,https://example.com
+javascript,advanced,javascript advanced course,coursera,https://example.com
+javascript,advanced,javascript advanced course,youtube,https://example.com
+javascript,advanced,javascript advanced course,udemy,https://example.com
+javascript,advanced,javascript advanced course,freecodecamp,https://example.com
+javascript,advanced,javascript advanced course,edx,https://example.com
+react,beginner,react beginner course,coursera,https://example.com
+react,beginner,react beginner course,youtube,https://example.com
+react,beginner,react beginner course,udemy,https://example.com
+react,beginner,react beginner course,freecodecamp,https://example.com
+react,beginner,react beginner course,edx,https://example.com
+react,intermediate,react intermediate course,coursera,https://example.com
+react,intermediate,react intermediate course,youtube,https://example.com
+react,intermediate,react intermediate course,udemy,https://example.com
+react,intermediate,react intermediate course,freecodecamp,https://example.com
+react,intermediate,react intermediate course,edx,https://example.com
+react,advanced,react advanced course,coursera,https://example.com
+react,advanced,react advanced course,youtube,https://example.com
+react,advanced,react advanced course,udemy,https://example.com
+react,advanced,react advanced course,freecodecamp,https://example.com
+react,advanced,react advanced course,edx,https://example.com
+node.js,beginner,node.js beginner course,coursera,https://example.com
+node.js,beginner,node.js beginner course,youtube,https://example.com
+node.js,beginner,node.js beginner course,udemy,https://example.com
+node.js,beginner,node.js beginner course,freecodecamp,https://example.com
+node.js,beginner,node.js beginner course,edx,https://example.com
+node.js,intermediate,node.js intermediate course,coursera,https://example.com
+node.js,intermediate,node.js intermediate course,youtube,https://example.com
+node.js,intermediate,node.js intermediate course,udemy,https://example.com
+node.js,intermediate,node.js intermediate course,freecodecamp,https://example.com
+node.js,intermediate,node.js intermediate course,edx,https://example.com
+node.js,advanced,node.js advanced course,coursera,https://example.com
+node.js,advanced,node.js advanced course,youtube,https://example.com
+node.js,advanced,node.js advanced course,udemy,https://example.com
+node.js,advanced,node.js advanced course,freecodecamp,https://example.com
+node.js,advanced,node.js advanced course,edx,https://example.com
+html,beginner,html beginner course,coursera,https://example.com
+html,beginner,html beginner course,youtube,https://example.com
+html,beginner,html beginner course,udemy,https://example.com
+html,beginner,html beginner course,freecodecamp,https://example.com
+html,beginner,html beginner course,edx,https://example.com
+html,intermediate,html intermediate course,coursera,https://example.com
+html,intermediate,html intermediate course,youtube,https://example.com
+html,intermediate,html intermediate course,udemy,https://example.com
+html,intermediate,html intermediate course,freecodecamp,https://example.com
+html,intermediate,html intermediate course,edx,https://example.com
+html,advanced,html advanced course,coursera,https://example.com
+html,advanced,html advanced course,youtube,https://example.com
+html,advanced,html advanced course,udemy,https://example.com
+html,advanced,html advanced course,freecodecamp,https://example.com
+html,advanced,html advanced course,edx,https://example.com
+css,beginner,css beginner course,coursera,https://example.com
+css,beginner,css beginner course,youtube,https://example.com
+css,beginner,css beginner course,udemy,https://example.com
+css,beginner,css beginner course,freecodecamp,https://example.com
+css,beginner,css beginner course,edx,https://example.com
+css,intermediate,css intermediate course,coursera,https://example.com
+css,intermediate,css intermediate course,youtube,https://example.com
+css,intermediate,css intermediate course,udemy,https://example.com
+css,intermediate,css intermediate course,freecodecamp,https://example.com
+css,intermediate,css intermediate course,edx,https://example.com
+css,advanced,css advanced course,coursera,https://example.com
+css,advanced,css advanced course,youtube,https://example.com
+css,advanced,css advanced course,udemy,https://example.com
+css,advanced,css advanced course,freecodecamp,https://example.com
+css,advanced,css advanced course,edx,https://example.com
+excel,beginner,excel beginner course,coursera,https://example.com
+excel,beginner,excel beginner course,youtube,https://example.com
+excel,beginner,excel beginner course,udemy,https://example.com
+excel,beginner,excel beginner course,freecodecamp,https://example.com
+excel,beginner,excel beginner course,edx,https://example.com
+excel,intermediate,excel intermediate course,coursera,https://example.com
+excel,intermediate,excel intermediate course,youtube,https://example.com
+excel,intermediate,excel intermediate course,udemy,https://example.com
+excel,intermediate,excel intermediate course,freecodecamp,https://example.com
+excel,intermediate,excel intermediate course,edx,https://example.com
+excel,advanced,excel advanced course,coursera,https://example.com
+excel,advanced,excel advanced course,youtube,https://example.com
+excel,advanced,excel advanced course,udemy,https://example.com
+excel,advanced,excel advanced course,freecodecamp,https://example.com
+excel,advanced,excel advanced course,edx,https://example.com
+power bi,beginner,power bi beginner course,coursera,https://example.com
+power bi,beginner,power bi beginner course,youtube,https://example.com
+power bi,beginner,power bi beginner course,udemy,https://example.com
+power bi,beginner,power bi beginner course,freecodecamp,https://example.com
+power bi,beginner,power bi beginner course,edx,https://example.com
+power bi,intermediate,power bi intermediate course,coursera,https://example.com
+power bi,intermediate,power bi intermediate course,youtube,https://example.com
+power bi,intermediate,power bi intermediate course,udemy,https://example.com
+power bi,intermediate,power bi intermediate course,freecodecamp,https://example.com
+power bi,intermediate,power bi intermediate course,edx,https://example.com
+power bi,advanced,power bi advanced course,coursera,https://example.com
+power bi,advanced,power bi advanced course,youtube,https://example.com
+power bi,advanced,power bi advanced course,udemy,https://example.com
+power bi,advanced,power bi advanced course,freecodecamp,https://example.com
+power bi,advanced,power bi advanced course,edx,https://example.com
+nlp,beginner,nlp beginner course,coursera,https://example.com
+nlp,beginner,nlp beginner course,youtube,https://example.com
+nlp,beginner,nlp beginner course,udemy,https://example.com
+nlp,beginner,nlp beginner course,freecodecamp,https://example.com
+nlp,beginner,nlp beginner course,edx,https://example.com
+nlp,intermediate,nlp intermediate course,coursera,https://example.com
+nlp,intermediate,nlp intermediate course,youtube,https://example.com
+nlp,intermediate,nlp intermediate course,udemy,https://example.com
+nlp,intermediate,nlp intermediate course,freecodecamp,https://example.com
+nlp,intermediate,nlp intermediate course,edx,https://example.com
+nlp,advanced,nlp advanced course,coursera,https://example.com
+nlp,advanced,nlp advanced course,youtube,https://example.com
+nlp,advanced,nlp advanced course,udemy,https://example.com
+nlp,advanced,nlp advanced course,freecodecamp,https://example.com
+nlp,advanced,nlp advanced course,edx,https://example.com
+computer vision,beginner,computer vision beginner course,coursera,https://example.com
+computer vision,beginner,computer vision beginner course,youtube,https://example.com
+computer vision,beginner,computer vision beginner course,udemy,https://example.com
+computer vision,beginner,computer vision beginner course,freecodecamp,https://example.com
+computer vision,beginner,computer vision beginner course,edx,https://example.com
+computer vision,intermediate,computer vision intermediate course,coursera,https://example.com
+computer vision,intermediate,computer vision intermediate course,youtube,https://example.com
+computer vision,intermediate,computer vision intermediate course,udemy,https://example.com
+computer vision,intermediate,computer vision intermediate course,freecodecamp,https://example.com
+computer vision,intermediate,computer vision intermediate course,edx,https://example.com
+computer vision,advanced,computer vision advanced course,coursera,https://example.com
+computer vision,advanced,computer vision advanced course,youtube,https://example.com
+computer vision,advanced,computer vision advanced course,udemy,https://example.com
+computer vision,advanced,computer vision advanced course,freecodecamp,https://example.com
+computer vision,advanced,computer vision advanced course,edx,https://example.com
+git,beginner,git beginner course,coursera,https://example.com
+git,beginner,git beginner course,youtube,https://example.com
+git,beginner,git beginner course,udemy,https://example.com
+git,beginner,git beginner course,freecodecamp,https://example.com
+git,beginner,git beginner course,edx,https://example.com
+git,intermediate,git intermediate course,coursera,https://example.com
+git,intermediate,git intermediate course,youtube,https://example.com
+git,intermediate,git intermediate course,udemy,https://example.com
+git,intermediate,git intermediate course,freecodecamp,https://example.com
+git,intermediate,git intermediate course,edx,https://example.com
+git,advanced,git advanced course,coursera,https://example.com
+git,advanced,git advanced course,youtube,https://example.com
+git,advanced,git advanced course,udemy,https://example.com
+git,advanced,git advanced course,freecodecamp,https://example.com
+git,advanced,git advanced course,edx,https://example.com
+linux,beginner,linux beginner course,coursera,https://example.com
+linux,beginner,linux beginner course,youtube,https://example.com
+linux,beginner,linux beginner course,udemy,https://example.com
+linux,beginner,linux beginner course,freecodecamp,https://example.com
+linux,beginner,linux beginner course,edx,https://example.com
+linux,intermediate,linux intermediate course,coursera,https://example.com
+linux,intermediate,linux intermediate course,youtube,https://example.com
+linux,intermediate,linux intermediate course,udemy,https://example.com
+linux,intermediate,linux intermediate course,freecodecamp,https://example.com
+linux,intermediate,linux intermediate course,edx,https://example.com
+linux,advanced,linux advanced course,coursera,https://example.com
+linux,advanced,linux advanced course,youtube,https://example.com
+linux,advanced,linux advanced course,udemy,https://example.com
+linux,advanced,linux advanced course,freecodecamp,https://example.com
+linux,advanced,linux advanced course,edx,https://example.com
+apis,beginner,apis beginner course,coursera,https://example.com
+apis,beginner,apis beginner course,youtube,https://example.com
+apis,beginner,apis beginner course,udemy,https://example.com
+apis,beginner,apis beginner course,freecodecamp,https://example.com
+apis,beginner,apis beginner course,edx,https://example.com
+apis,intermediate,apis intermediate course,coursera,https://example.com
+apis,intermediate,apis intermediate course,youtube,https://example.com
+apis,intermediate,apis intermediate course,udemy,https://example.com
+apis,intermediate,apis intermediate course,freecodecamp,https://example.com
+apis,intermediate,apis intermediate course,edx,https://example.com
+apis,advanced,apis advanced course,coursera,https://example.com
+apis,advanced,apis advanced course,youtube,https://example.com
+apis,advanced,apis advanced course,udemy,https://example.com
+apis,advanced,apis advanced course,freecodecamp,https://example.com
+apis,advanced,apis advanced course,edx,https://example.com
+nosql,beginner,nosql beginner course,coursera,https://example.com
+nosql,beginner,nosql beginner course,youtube,https://example.com
+nosql,beginner,nosql beginner course,udemy,https://example.com
+nosql,beginner,nosql beginner course,freecodecamp,https://example.com
+nosql,beginner,nosql beginner course,edx,https://example.com
+nosql,intermediate,nosql intermediate course,coursera,https://example.com
+nosql,intermediate,nosql intermediate course,youtube,https://example.com
+nosql,intermediate,nosql intermediate course,udemy,https://example.com
+nosql,intermediate,nosql intermediate course,freecodecamp,https://example.com
+nosql,intermediate,nosql intermediate course,edx,https://example.com
+nosql,advanced,nosql advanced course,coursera,https://example.com
+nosql,advanced,nosql advanced course,youtube,https://example.com
+nosql,advanced,nosql advanced course,udemy,https://example.com
+nosql,advanced,nosql advanced course,freecodecamp,https://example.com
+nosql,advanced,nosql advanced course,edx,https://example.com
+system design,beginner,system design beginner course,coursera,https://example.com
+system design,beginner,system design beginner course,youtube,https://example.com
+system design,beginner,system design beginner course,udemy,https://example.com
+system design,beginner,system design beginner course,freecodecamp,https://example.com
+system design,beginner,system design beginner course,edx,https://example.com
+system design,intermediate,system design intermediate course,coursera,https://example.com
+system design,intermediate,system design intermediate course,youtube,https://example.com
+system design,intermediate,system design intermediate course,udemy,https://example.com
+system design,intermediate,system design intermediate course,freecodecamp,https://example.com
+system design,intermediate,system design intermediate course,edx,https://example.com
+system design,advanced,system design advanced course,coursera,https://example.com
+system design,advanced,system design advanced course,youtube,https://example.com
+system design,advanced,system design advanced course,udemy,https://example.com
+system design,advanced,system design advanced course,freecodecamp,https://example.com
+system design,advanced,system design advanced course,edx,https://example.com
+dsa,beginner,dsa beginner course,coursera,https://example.com
+dsa,beginner,dsa beginner course,youtube,https://example.com
+dsa,beginner,dsa beginner course,udemy,https://example.com
+dsa,beginner,dsa beginner course,freecodecamp,https://example.com
+dsa,beginner,dsa beginner course,edx,https://example.com
+dsa,intermediate,dsa intermediate course,coursera,https://example.com
+dsa,intermediate,dsa intermediate course,youtube,https://example.com
+dsa,intermediate,dsa intermediate course,udemy,https://example.com
+dsa,intermediate,dsa intermediate course,freecodecamp,https://example.com
+dsa,intermediate,dsa intermediate course,edx,https://example.com
+dsa,advanced,dsa advanced course,coursera,https://example.com
+dsa,advanced,dsa advanced course,youtube,https://example.com
+dsa,advanced,dsa advanced course,udemy,https://example.com
+dsa,advanced,dsa advanced course,freecodecamp,https://example.com
+dsa,advanced,dsa advanced course,edx,https://example.com
+tensorflow,beginner,tensorflow beginner course,coursera,https://example.com
+tensorflow,beginner,tensorflow beginner course,youtube,https://example.com
+tensorflow,beginner,tensorflow beginner course,udemy,https://example.com
+tensorflow,beginner,tensorflow beginner course,freecodecamp,https://example.com
+tensorflow,beginner,tensorflow beginner course,edx,https://example.com
+tensorflow,intermediate,tensorflow intermediate course,coursera,https://example.com
+tensorflow,intermediate,tensorflow intermediate course,youtube,https://example.com
+tensorflow,intermediate,tensorflow intermediate course,udemy,https://example.com
+tensorflow,intermediate,tensorflow intermediate course,freecodecamp,https://example.com
+tensorflow,intermediate,tensorflow intermediate course,edx,https://example.com
+tensorflow,advanced,tensorflow advanced course,coursera,https://example.com
+tensorflow,advanced,tensorflow advanced course,youtube,https://example.com
+tensorflow,advanced,tensorflow advanced course,udemy,https://example.com
+tensorflow,advanced,tensorflow advanced course,freecodecamp,https://example.com
+tensorflow,advanced,tensorflow advanced course,edx,https://example.com
+pytorch,beginner,pytorch beginner course,coursera,https://example.com
+pytorch,beginner,pytorch beginner course,youtube,https://example.com
+pytorch,beginner,pytorch beginner course,udemy,https://example.com
+pytorch,beginner,pytorch beginner course,freecodecamp,https://example.com
+pytorch,beginner,pytorch beginner course,edx,https://example.com
+pytorch,intermediate,pytorch intermediate course,coursera,https://example.com
+pytorch,intermediate,pytorch intermediate course,youtube,https://example.com
+pytorch,intermediate,pytorch intermediate course,udemy,https://example.com
+pytorch,intermediate,pytorch intermediate course,freecodecamp,https://example.com
+pytorch,intermediate,pytorch intermediate course,edx,https://example.com
+pytorch,advanced,pytorch advanced course,coursera,https://example.com
+pytorch,advanced,pytorch advanced course,youtube,https://example.com
+pytorch,advanced,pytorch advanced course,udemy,https://example.com
+pytorch,advanced,pytorch advanced course,freecodecamp,https://example.com
+pytorch,advanced,pytorch advanced course,edx,https://example.com
+scikit-learn,beginner,scikit-learn beginner course,coursera,https://example.com
+scikit-learn,beginner,scikit-learn beginner course,youtube,https://example.com
+scikit-learn,beginner,scikit-learn beginner course,udemy,https://example.com
+scikit-learn,beginner,scikit-learn beginner course,freecodecamp,https://example.com
+scikit-learn,beginner,scikit-learn beginner course,edx,https://example.com
+scikit-learn,intermediate,scikit-learn intermediate course,coursera,https://example.com
+scikit-learn,intermediate,scikit-learn intermediate course,youtube,https://example.com
+scikit-learn,intermediate,scikit-learn intermediate course,udemy,https://example.com
+scikit-learn,intermediate,scikit-learn intermediate course,freecodecamp,https://example.com
+scikit-learn,intermediate,scikit-learn intermediate course,edx,https://example.com
+scikit-learn,advanced,scikit-learn advanced course,coursera,https://example.com
+scikit-learn,advanced,scikit-learn advanced course,youtube,https://example.com
+scikit-learn,advanced,scikit-learn advanced course,udemy,https://example.com
+scikit-learn,advanced,scikit-learn advanced course,freecodecamp,https://example.com
+scikit-learn,advanced,scikit-learn advanced course,edx,https://example.com
+aws,beginner,aws beginner course,coursera,https://example.com
+aws,beginner,aws beginner course,youtube,https://example.com
+aws,beginner,aws beginner course,udemy,https://example.com
+aws,beginner,aws beginner course,freecodecamp,https://example.com
+aws,beginner,aws beginner course,edx,https://example.com
+aws,intermediate,aws intermediate course,coursera,https://example.com
+aws,intermediate,aws intermediate course,youtube,https://example.com
+aws,intermediate,aws intermediate course,udemy,https://example.com
+aws,intermediate,aws intermediate course,freecodecamp,https://example.com
+aws,intermediate,aws intermediate course,edx,https://example.com
+aws,advanced,aws advanced course,coursera,https://example.com
+aws,advanced,aws advanced course,youtube,https://example.com
+aws,advanced,aws advanced course,udemy,https://example.com
+aws,advanced,aws advanced course,freecodecamp,https://example.com
+aws,advanced,aws advanced course,edx,https://example.com
+azure,beginner,azure beginner course,coursera,https://example.com
+azure,beginner,azure beginner course,youtube,https://example.com
+azure,beginner,azure beginner course,udemy,https://example.com
+azure,beginner,azure beginner course,freecodecamp,https://example.com
+azure,beginner,azure beginner course,edx,https://example.com
+azure,intermediate,azure intermediate course,coursera,https://example.com
+azure,intermediate,azure intermediate course,youtube,https://example.com
+azure,intermediate,azure intermediate course,udemy,https://example.com
+azure,intermediate,azure intermediate course,freecodecamp,https://example.com
+azure,intermediate,azure intermediate course,edx,https://example.com
+azure,advanced,azure advanced course,coursera,https://example.com
+azure,advanced,azure advanced course,youtube,https://example.com
+azure,advanced,azure advanced course,udemy,https://example.com
+azure,advanced,azure advanced course,freecodecamp,https://example.com
+azure,advanced,azure advanced course,edx,https://example.com
+gcp,beginner,gcp beginner course,coursera,https://example.com
+gcp,beginner,gcp beginner course,youtube,https://example.com
+gcp,beginner,gcp beginner course,udemy,https://example.com
+gcp,beginner,gcp beginner course,freecodecamp,https://example.com
+gcp,beginner,gcp beginner course,edx,https://example.com
+gcp,intermediate,gcp intermediate course,coursera,https://example.com
+gcp,intermediate,gcp intermediate course,youtube,https://example.com
+gcp,intermediate,gcp intermediate course,udemy,https://example.com
+gcp,intermediate,gcp intermediate course,freecodecamp,https://example.com
+gcp,intermediate,gcp intermediate course,edx,https://example.com
+gcp,advanced,gcp advanced course,coursera,https://example.com
+gcp,advanced,gcp advanced course,youtube,https://example.com
+gcp,advanced,gcp advanced course,udemy,https://example.com
+gcp,advanced,gcp advanced course,freecodecamp,https://example.com
+gcp,advanced,gcp advanced course,edx,https://example.com

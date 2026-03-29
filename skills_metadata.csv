@@ -1,0 +1,97 @@
+skill,category,difficulty
+python,web,beginner
+python,web,intermediate
+python,cloud,advanced
+statistics,tools,beginner
+statistics,cloud,intermediate
+statistics,tools,advanced
+machine learning,ai,beginner
+machine learning,programming,intermediate
+machine learning,database,advanced
+deep learning,database,beginner
+deep learning,database,intermediate
+deep learning,programming,advanced
+sql,tools,beginner
+sql,programming,intermediate
+sql,web,advanced
+data visualization,database,beginner
+data visualization,tools,intermediate
+data visualization,ai,advanced
+mlops,devops,beginner
+mlops,cloud,intermediate
+mlops,web,advanced
+cloud basics,cloud,beginner
+cloud basics,cloud,intermediate
+cloud basics,ai,advanced
+docker,database,beginner
+docker,ai,intermediate
+docker,devops,advanced
+kubernetes,devops,beginner
+kubernetes,devops,intermediate
+kubernetes,tools,advanced
+java,programming,beginner
+java,devops,intermediate
+java,ai,advanced
+javascript,ai,beginner
+javascript,tools,intermediate
+javascript,database,advanced
+react,programming,beginner
+react,devops,intermediate
+react,web,advanced
+node.js,ai,beginner
+node.js,cloud,intermediate
+node.js,devops,advanced
+html,devops,beginner
+html,database,intermediate
+html,programming,advanced
+css,tools,beginner
+css,database,intermediate
+css,devops,advanced
+excel,cloud,beginner
+excel,cloud,intermediate
+excel,ai,advanced
+power bi,cloud,beginner
+power bi,programming,intermediate
+power bi,web,advanced
+nlp,devops,beginner
+nlp,devops,intermediate
+nlp,database,advanced
+computer vision,ai,beginner
+computer vision,database,intermediate
+computer vision,ai,advanced
+git,web,beginner
+git,web,intermediate
+git,ai,advanced
+linux,tools,beginner
+linux,cloud,intermediate
+linux,web,advanced
+apis,cloud,beginner
+apis,web,intermediate
+apis,database,advanced
+nosql,devops,beginner
+nosql,web,intermediate
+nosql,ai,advanced
+system design,cloud,beginner
+system design,tools,intermediate
+system design,programming,advanced
+dsa,database,beginner
+dsa,devops,intermediate
+dsa,web,advanced
+tensorflow,devops,beginner
+tensorflow,devops,intermediate
+tensorflow,database,advanced
+pytorch,devops,beginner
+pytorch,ai,intermediate
+pytorch,programming,advanced
+scikit-learn,cloud,beginner
+scikit-learn,devops,intermediate
+scikit-learn,devops,advanced
+aws,tools,beginner
+aws,web,intermediate
+aws,database,advanced
+azure,ai,beginner
+azure,programming,intermediate
+azure,database,advanced
+gcp,devops,beginner
+gcp,programming,intermediate
+gcp,database,advanced
